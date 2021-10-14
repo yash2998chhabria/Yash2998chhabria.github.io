@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>themes on johndoe</title>
+    <title>themes on Portfolio</title>
     <link>http://www.example.com/tags/themes/</link>
-    <description>Recent content in themes on johndoe</description>
+    <description>Recent content in themes on Portfolio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Mon, 04 Mar 2019 00:00:00 +0000</lastBuildDate>
@@ -13,10 +13,19 @@
     
     <item>
       <title>External Page: Hugo Coder Wiki</title>
-      <link>http://www.example.com/posts/hugo-coder-wiki/</link>
+      <link>http://www.example.com/jayposts/hugo-coder-wiki/</link>
       <pubDate>Mon, 04 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://www.example.com/posts/hugo-coder-wiki/</guid>
+      <guid>http://www.example.com/jayposts/hugo-coder-wiki/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Página Externa: Wiki Hugo Coder</title>
+      <link>http://www.example.com/jayposts/hugo-coder-wiki/</link>
+      <pubDate>Mon, 04 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.example.com/jayposts/hugo-coder-wiki/</guid>
       <description></description>
     </item>
     
